@@ -1,0 +1,123 @@
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita\ImageEditor\TableEditor\bin\Debug\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita\ImageEditor\TableEditor\bin\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita\ImageEditor\TableEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita\ImageEditor\TableEditor\obj\Debug\TableEditor.FormChangeColumnName.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita\ImageEditor\TableEditor\obj\Debug\TableEditor.FormChangeRowName.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita\ImageEditor\TableEditor\obj\Debug\TableEditor.FormCreateImage.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita\ImageEditor\TableEditor\obj\Debug\TableEditor.FormImageEditor.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita\ImageEditor\TableEditor\obj\Debug\TableEditor.MDIParent.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita\ImageEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita\ImageEditor\TableEditor\obj\Debug\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita\ImageEditor\TableEditor\obj\Debug\TableEditor.pdb
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\bin\Debug\TableEditor.exe
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\bin\Debug\TableEditor.pdb
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormChangeColumnName.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormChangeRowName.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormCreateImage.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormImageEditor.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.MDIParent.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\TableEditor.exe
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\bin\Debug\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\bin\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormChangeColumnName.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormChangeRowName.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormCreateImage.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormImageEditor.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.MDIParent.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v2\ImageEditor\TableEditor\obj\Debug\TableEditor.pdb
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3\ImageEditor\TableEditor\bin\Debug\TableEditor.exe
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3\ImageEditor\TableEditor\bin\Debug\TableEditor.pdb
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3\ImageEditor\TableEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormChangeColumnName.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormChangeRowName.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormCreateImage.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormImageEditor.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3\ImageEditor\TableEditor\obj\Debug\ImageEditor.MDIParent.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3\ImageEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3\ImageEditor\TableEditor\obj\Debug\TableEditor.exe
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3\ImageEditor\TableEditor\obj\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.1\ImageEditor\TableEditor\bin\Debug\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.1\ImageEditor\TableEditor\bin\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.1\ImageEditor\TableEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.1\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormChangeColumnName.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.1\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormChangeRowName.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.1\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormCreateImage.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.1\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormImageEditor.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.1\ImageEditor\TableEditor\obj\Debug\ImageEditor.MDIParent.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.1\ImageEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.1\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.1\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.1\ImageEditor\TableEditor\obj\Debug\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.1\ImageEditor\TableEditor\obj\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\bin\Debug\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\bin\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormImageEditor.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\ImageEditor.MDIParent.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\TableEditor.pdb
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\bin\Debug\TableEditor.exe
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\bin\Debug\TableEditor.pdb
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormImageEditor.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\ImageEditor.MDIParent.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\TableEditor.exe
+D:\информация пользователя\Desktop\ImageEditor Kluev Nikita v3.2\ImageEditor\TableEditor\obj\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3\ImageEditor\TableEditor\bin\Debug\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3\ImageEditor\TableEditor\bin\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3\ImageEditor\TableEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormImageEditor.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3\ImageEditor\TableEditor\obj\Debug\ImageEditor.MDIParent.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3\ImageEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3\ImageEditor\TableEditor\obj\Debug\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3\ImageEditor\TableEditor\obj\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\bin\Debug\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\bin\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormImageEditor.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\ImageEditor.MDIParent.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\TableEditor.pdb
+C:\Users\Лев\Desktop\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\bin\Debug\TableEditor.exe
+C:\Users\Лев\Desktop\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\bin\Debug\TableEditor.pdb
+C:\Users\Лев\Desktop\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+C:\Users\Лев\Desktop\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormImageEditor.resources
+C:\Users\Лев\Desktop\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\ImageEditor.MDIParent.resources
+C:\Users\Лев\Desktop\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+C:\Users\Лев\Desktop\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+C:\Users\Лев\Desktop\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\TableEditor.exe
+C:\Users\Лев\Desktop\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Debug\TableEditor.pdb
+C:\Users\Лев\Desktop\Редактор изображений\ImageEditor\TableEditor\bin\Debug\ImageEditor.exe
+C:\Users\Лев\Desktop\Редактор изображений\ImageEditor\TableEditor\bin\Debug\ImageEditor.pdb
+C:\Users\Лев\Desktop\Редактор изображений\ImageEditor\TableEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+C:\Users\Лев\Desktop\Редактор изображений\ImageEditor\TableEditor\obj\Debug\ImageEditor.FormImageEditor.resources
+C:\Users\Лев\Desktop\Редактор изображений\ImageEditor\TableEditor\obj\Debug\ImageEditor.MDIParent.resources
+C:\Users\Лев\Desktop\Редактор изображений\ImageEditor\TableEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\Лев\Desktop\Редактор изображений\ImageEditor\TableEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+C:\Users\Лев\Desktop\Редактор изображений\ImageEditor\TableEditor\obj\Debug\ImageEditor.exe
+C:\Users\Лев\Desktop\Редактор изображений\ImageEditor\TableEditor\obj\Debug\ImageEditor.pdb

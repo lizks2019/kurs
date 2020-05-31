@@ -1,0 +1,2 @@
+Image Files(*.bmp) | *.bmp |Image Files(*.jpg) | *.jpg |Image Files(*.png) | *.png|Все файлы (*.*)|*.*
+Image Files(*.bmp;*.jpg;*.png)|*.bmp;*.jpg;*.png|Все файлы (*.*)|*.*

@@ -1,0 +1,9 @@
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\bin\Release\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\bin\Release\TableEditor.pdb
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Release\ImageEditor.FormImageEditor.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Release\ImageEditor.MDIParent.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Release\TableEditor.Properties.Resources.resources
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Release\ImageEditor.csproj.GenerateResource.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Release\ImageEditor.csproj.CoreCompileInputs.cache
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Release\TableEditor.exe
+D:\con0\Курсовые работы\ImageEditor Kluev Nikita v3.3 clear\ImageEditor\TableEditor\obj\Release\TableEditor.pdb

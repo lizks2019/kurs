@@ -1,0 +1,83 @@
+C:\Users\house\Desktop\TableEditor\TableEditor\bin\Release\TableEditor.exe
+C:\Users\house\Desktop\TableEditor\TableEditor\bin\Release\TableEditor.pdb
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.FormChangeColumnName.resources
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.FormCreateTable.resources
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.FormTableEditor.resources
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.MDIParent.resources
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.Properties.Resources.resources
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.csproj.GenerateResource.Cache
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.exe
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.pdb
+C:\Users\stud\Downloads\TableEditor\TableEditor\obj\Release\TableEditor.exe
+C:\Users\stud\Downloads\TableEditor\TableEditor\obj\Release\TableEditor.pdb
+Z:\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.exe
+Z:\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.pdb
+Z:\ЭИС 24\Валиева\TableEditor\TableEditor\bin\Release\TableEditor.exe
+Z:\ЭИС 24\Валиева\TableEditor\TableEditor\bin\Release\TableEditor.pdb
+Z:\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.csprojResolveAssemblyReference.cache
+Z:\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.FormChangeColumnName.resources
+Z:\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.FormCreateTable.resources
+Z:\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.FormTableEditor.resources
+Z:\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.MDIParent.resources
+Z:\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.Properties.Resources.resources
+Z:\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.csproj.GenerateResource.Cache
+C:\Users\Антон\Desktop\Валиева\TableEditor\TableEditor\bin\Release\TableEditor.exe
+C:\Users\Антон\Desktop\Валиева\TableEditor\TableEditor\bin\Release\TableEditor.pdb
+C:\Users\Антон\Desktop\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.FormChangeColumnName.resources
+C:\Users\Антон\Desktop\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.FormCreateTable.resources
+C:\Users\Антон\Desktop\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.FormTableEditor.resources
+C:\Users\Антон\Desktop\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.MDIParent.resources
+C:\Users\Антон\Desktop\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.Properties.Resources.resources
+C:\Users\Антон\Desktop\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.exe
+C:\Users\Антон\Desktop\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.pdb
+C:\Users\Антон\Desktop\курсач\Валиева\TableEditor\TableEditor\bin\Release\TableEditor.exe
+C:\Users\Антон\Desktop\курсач\Валиева\TableEditor\TableEditor\bin\Release\TableEditor.pdb
+C:\Users\Антон\Desktop\курсач\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\курсач\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.FormChangeColumnName.resources
+C:\Users\Антон\Desktop\курсач\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.FormCreateTable.resources
+C:\Users\Антон\Desktop\курсач\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.FormTableEditor.resources
+C:\Users\Антон\Desktop\курсач\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.MDIParent.resources
+C:\Users\Антон\Desktop\курсач\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.Properties.Resources.resources
+C:\Users\Антон\Desktop\курсач\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\курсач\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\курсач\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.exe
+C:\Users\Антон\Desktop\курсач\Валиева\TableEditor\TableEditor\obj\Release\TableEditor.pdb
+C:\Users\Антон\Desktop\TableEditor\TableEditor\bin\Release\TableEditor.exe
+C:\Users\Антон\Desktop\TableEditor\TableEditor\bin\Release\TableEditor.pdb
+C:\Users\Антон\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.FormChangeColumnName.resources
+C:\Users\Антон\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.FormCreateTable.resources
+C:\Users\Антон\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.FormTableEditor.resources
+C:\Users\Антон\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.MDIParent.resources
+C:\Users\Антон\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.Properties.Resources.resources
+C:\Users\Антон\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.exe
+C:\Users\Антон\Desktop\TableEditor\TableEditor\obj\Release\TableEditor.pdb
+C:\Users\Антон\Desktop\Раух\курсач\TableEditor\TableEditor\bin\Release\TableEditor.exe
+C:\Users\Антон\Desktop\Раух\курсач\TableEditor\TableEditor\bin\Release\TableEditor.pdb
+C:\Users\Антон\Desktop\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.FormChangeColumnName.resources
+C:\Users\Антон\Desktop\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.FormCreateTable.resources
+C:\Users\Антон\Desktop\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.FormTableEditor.resources
+C:\Users\Антон\Desktop\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.MDIParent.resources
+C:\Users\Антон\Desktop\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.Properties.Resources.resources
+C:\Users\Антон\Desktop\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.exe
+C:\Users\Антон\Desktop\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.pdb
+C:\Users\Антон\Desktop\ЯГТУ\4 семестр\Раух\курсач\TableEditor\TableEditor\bin\Release\TableEditor.exe
+C:\Users\Антон\Desktop\ЯГТУ\4 семестр\Раух\курсач\TableEditor\TableEditor\bin\Release\TableEditor.pdb
+C:\Users\Антон\Desktop\ЯГТУ\4 семестр\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\ЯГТУ\4 семестр\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.FormChangeColumnName.resources
+C:\Users\Антон\Desktop\ЯГТУ\4 семестр\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.FormCreateTable.resources
+C:\Users\Антон\Desktop\ЯГТУ\4 семестр\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.FormTableEditor.resources
+C:\Users\Антон\Desktop\ЯГТУ\4 семестр\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.MDIParent.resources
+C:\Users\Антон\Desktop\ЯГТУ\4 семестр\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.Properties.Resources.resources
+C:\Users\Антон\Desktop\ЯГТУ\4 семестр\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\ЯГТУ\4 семестр\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\ЯГТУ\4 семестр\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.exe
+C:\Users\Антон\Desktop\ЯГТУ\4 семестр\Раух\курсач\TableEditor\TableEditor\obj\Release\TableEditor.pdb

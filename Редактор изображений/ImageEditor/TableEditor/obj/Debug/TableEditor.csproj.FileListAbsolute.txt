@@ -1,0 +1,133 @@
+C:\Users\house\Desktop\Coding_For_Live\TableEditor\TableEditor\bin\Debug\TableEditor.exe
+C:\Users\house\Desktop\Coding_For_Live\TableEditor\TableEditor\bin\Debug\TableEditor.pdb
+C:\Users\house\Desktop\Coding_For_Live\TableEditor\TableEditor\obj\Debug\TableEditor.csprojResolveAssemblyReference.cache
+C:\Users\house\Desktop\Coding_For_Live\TableEditor\TableEditor\obj\Debug\TableEditor.FormTableEditor.resources
+C:\Users\house\Desktop\Coding_For_Live\TableEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+C:\Users\house\Desktop\Coding_For_Live\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.GenerateResource.Cache
+C:\Users\house\Desktop\Coding_For_Live\TableEditor\TableEditor\obj\Debug\TableEditor.exe
+C:\Users\house\Desktop\Coding_For_Live\TableEditor\TableEditor\obj\Debug\TableEditor.pdb
+C:\Users\house\Desktop\Coding_For_Live\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeColumnName.resources
+C:\Users\house\Desktop\Coding_For_Live\TableEditor\TableEditor\obj\Debug\TableEditor.FormCreateTable.resources
+C:\Users\house\Desktop\Coding_For_Live\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeTableName.resources
+G:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.exe
+G:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.pdb
+G:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\bin\Debug\TableEditor.exe
+G:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\bin\Debug\TableEditor.pdb
+G:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.csprojResolveAssemblyReference.cache
+G:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeColumnName.resources
+G:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeTableName.resources
+G:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.FormCreateTable.resources
+G:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.FormTableEditor.resources
+G:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+G:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.GenerateResource.Cache
+E:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.exe
+E:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.pdb
+E:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\bin\Debug\TableEditor.exe
+E:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\bin\Debug\TableEditor.pdb
+E:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.csprojResolveAssemblyReference.cache
+E:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeColumnName.resources
+E:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeTableName.resources
+E:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.FormCreateTable.resources
+E:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.FormTableEditor.resources
+E:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+E:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.GenerateResource.Cache
+E:\Technology RAUHVARGER\Голубков - курсач\TableEditor\TableEditor\obj\Debug\TableEditor.MDIParent.resources
+C:\Users\house\Desktop\Coding_For_Live\TableEditor  v2.0\TableEditor\obj\Debug\TableEditor.exe
+C:\Users\house\Desktop\Coding_For_Live\TableEditor  v2.0\TableEditor\obj\Debug\TableEditor.pdb
+C:\Users\house\Desktop\Coding_For_Live\TableEditor  v2.0\TableEditor\bin\Debug\TableEditor.exe
+C:\Users\house\Desktop\Coding_For_Live\TableEditor  v2.0\TableEditor\bin\Debug\TableEditor.pdb
+C:\Users\house\Desktop\Coding_For_Live\TableEditor  v2.0\TableEditor\obj\Debug\TableEditor.csprojResolveAssemblyReference.cache
+C:\Users\house\Desktop\Coding_For_Live\TableEditor  v2.0\TableEditor\obj\Debug\TableEditor.FormChangeColumnName.resources
+C:\Users\house\Desktop\Coding_For_Live\TableEditor  v2.0\TableEditor\obj\Debug\TableEditor.FormChangeTableName.resources
+C:\Users\house\Desktop\Coding_For_Live\TableEditor  v2.0\TableEditor\obj\Debug\TableEditor.FormCreateTable.resources
+C:\Users\house\Desktop\Coding_For_Live\TableEditor  v2.0\TableEditor\obj\Debug\TableEditor.FormTableEditor.resources
+C:\Users\house\Desktop\Coding_For_Live\TableEditor  v2.0\TableEditor\obj\Debug\TableEditor.MDIParent.resources
+C:\Users\house\Desktop\Coding_For_Live\TableEditor  v2.0\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+C:\Users\house\Desktop\Coding_For_Live\TableEditor  v2.0\TableEditor\obj\Debug\TableEditor.csproj.GenerateResource.Cache
+C:\Users\house\Desktop\C O D I N G\TableEditor  v2.0\TableEditor\obj\Debug\TableEditor.exe
+C:\Users\house\Desktop\C O D I N G\TableEditor  v2.0\TableEditor\obj\Debug\TableEditor.pdb
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Debug\TableEditor.exe
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Debug\TableEditor.pdb
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Debug\TableEditor.csprojResolveAssemblyReference.cache
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeColumnName.resources
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Debug\TableEditor.FormCreateTable.resources
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Debug\TableEditor.FormTableEditor.resources
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Debug\TableEditor.MDIParent.resources
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+C:\Users\house\Desktop\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.GenerateResource.Cache
+C:\Users\house\Desktop\TableEditor\TableEditor\bin\Debug\TableEditor.exe
+C:\Users\house\Desktop\TableEditor\TableEditor\bin\Debug\TableEditor.pdb
+\\brig\STUD\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Debug\TableEditor.exe
+\\brig\STUD\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Debug\TableEditor.pdb
+\\brig\STUD\ЭИС 24\Валиева\TableEditor\TableEditor\bin\Debug\TableEditor.exe
+\\brig\STUD\ЭИС 24\Валиева\TableEditor\TableEditor\bin\Debug\TableEditor.pdb
+\\brig\STUD\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Debug\TableEditor.csprojResolveAssemblyReference.cache
+\\brig\STUD\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeColumnName.resources
+\\brig\STUD\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Debug\TableEditor.FormCreateTable.resources
+\\brig\STUD\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Debug\TableEditor.FormTableEditor.resources
+\\brig\STUD\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Debug\TableEditor.MDIParent.resources
+\\brig\STUD\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+\\brig\STUD\ЭИС 24\Валиева\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.GenerateResource.Cache
+G:\TableEditor-20190507T100836Z-001\TableEditor\TableEditor\bin\Debug\TableEditor.exe
+G:\TableEditor-20190507T100836Z-001\TableEditor\TableEditor\bin\Debug\TableEditor.pdb
+G:\TableEditor-20190507T100836Z-001\TableEditor\TableEditor\obj\Debug\TableEditor.csprojAssemblyReference.cache
+G:\TableEditor-20190507T100836Z-001\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeColumnName.resources
+G:\TableEditor-20190507T100836Z-001\TableEditor\TableEditor\obj\Debug\TableEditor.FormCreateTable.resources
+G:\TableEditor-20190507T100836Z-001\TableEditor\TableEditor\obj\Debug\TableEditor.FormTableEditor.resources
+G:\TableEditor-20190507T100836Z-001\TableEditor\TableEditor\obj\Debug\TableEditor.MDIParent.resources
+G:\TableEditor-20190507T100836Z-001\TableEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+G:\TableEditor-20190507T100836Z-001\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.GenerateResource.cache
+G:\TableEditor-20190507T100836Z-001\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.CoreCompileInputs.cache
+G:\TableEditor-20190507T100836Z-001\TableEditor\TableEditor\obj\Debug\TableEditor.exe
+G:\TableEditor-20190507T100836Z-001\TableEditor\TableEditor\obj\Debug\TableEditor.pdb
+D:\информация пользователя\Desktop\TableEditor Andrey Tarasov\TableEditor\TableEditor\bin\Debug\TableEditor.exe
+D:\информация пользователя\Desktop\TableEditor Andrey Tarasov\TableEditor\TableEditor\bin\Debug\TableEditor.pdb
+D:\информация пользователя\Desktop\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.csprojAssemblyReference.cache
+D:\информация пользователя\Desktop\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeColumnName.resources
+D:\информация пользователя\Desktop\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.FormCreateTable.resources
+D:\информация пользователя\Desktop\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.FormTableEditor.resources
+D:\информация пользователя\Desktop\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.MDIParent.resources
+D:\информация пользователя\Desktop\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+D:\информация пользователя\Desktop\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.GenerateResource.cache
+D:\информация пользователя\Desktop\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.CoreCompileInputs.cache
+D:\информация пользователя\Desktop\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.exe
+D:\информация пользователя\Desktop\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.pdb
+D:\con0\TableEditor Andrey Tarasov\TableEditor\TableEditor\bin\Debug\TableEditor.exe
+D:\con0\TableEditor Andrey Tarasov\TableEditor\TableEditor\bin\Debug\TableEditor.pdb
+D:\con0\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.csprojAssemblyReference.cache
+D:\con0\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeColumnName.resources
+D:\con0\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.FormCreateTable.resources
+D:\con0\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.FormTableEditor.resources
+D:\con0\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.MDIParent.resources
+D:\con0\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+D:\con0\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.GenerateResource.cache
+D:\con0\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.CoreCompileInputs.cache
+D:\con0\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.exe
+D:\con0\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.pdb
+D:\информация пользователя\Desktop\TableEditor Andrey Tarasov\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeRowName.resources
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v2\TableEditor\TableEditor\bin\Debug\TableEditor.exe
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v2\TableEditor\TableEditor\bin\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v2\TableEditor\TableEditor\obj\Debug\TableEditor.csprojAssemblyReference.cache
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v2\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeColumnName.resources
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v2\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeRowName.resources
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v2\TableEditor\TableEditor\obj\Debug\TableEditor.FormCreateTable.resources
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v2\TableEditor\TableEditor\obj\Debug\TableEditor.FormTableEditor.resources
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v2\TableEditor\TableEditor\obj\Debug\TableEditor.MDIParent.resources
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v2\TableEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v2\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.GenerateResource.cache
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v2\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.CoreCompileInputs.cache
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v2\TableEditor\TableEditor\obj\Debug\TableEditor.exe
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v2\TableEditor\TableEditor\obj\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v3\TableEditor\TableEditor\bin\Debug\TableEditor.exe
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v3\TableEditor\TableEditor\bin\Debug\TableEditor.pdb
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v3\TableEditor\TableEditor\obj\Debug\TableEditor.csprojAssemblyReference.cache
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v3\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeColumnName.resources
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v3\TableEditor\TableEditor\obj\Debug\TableEditor.FormChangeRowName.resources
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v3\TableEditor\TableEditor\obj\Debug\TableEditor.FormCreateTable.resources
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v3\TableEditor\TableEditor\obj\Debug\TableEditor.FormTableEditor.resources
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v3\TableEditor\TableEditor\obj\Debug\TableEditor.MDIParent.resources
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v3\TableEditor\TableEditor\obj\Debug\TableEditor.Properties.Resources.resources
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v3\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.GenerateResource.cache
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v3\TableEditor\TableEditor\obj\Debug\TableEditor.csproj.CoreCompileInputs.cache
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v3\TableEditor\TableEditor\obj\Debug\TableEditor.exe
+D:\con0\Курсовые работы\TableEditor Andrey Tarasov v3\TableEditor\TableEditor\obj\Debug\TableEditor.pdb
